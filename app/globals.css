@@ -6,9 +6,9 @@
 }
 @font-face {
 	font-family: 'Vazir';
-	src: url('../public/src/assets/fonts/Vazirmatn-Medium.woff2') format('woff2'),
-  url('../public/src/assets/fonts/Vazirmatn-Bold.ttf') format('ttf'),
-		url('../public/src/assets/fonts/Vazirmatn-Medium.ttf') format('truetype');
+	src: url('../src/assets/fonts/Vazirmatn-Medium.woff2') format('woff2'),
+  url('../src/assets/fonts/Vazirmatn-Bold.ttf') format('ttf'),
+		url('../src/assets/fonts/Vazirmatn-Medium.ttf') format('truetype');
 	font-weight: 200 700;
 	font-display: swap;
 	font-style: normal;

@@ -80,7 +80,7 @@ export default function LoginForm() {
         {/* <div className="mb-4.5">
           <Button
             disabled={loading}
-            label="ورود"
+            label="ورود"ؤژ
             type="submit"
             shape="rounded"
             className="flex w-full mt-5"

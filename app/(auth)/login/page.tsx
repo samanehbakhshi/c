@@ -1,13 +1,13 @@
-import LoginForm from '@/public/src/lib/supabase/components/login/LoginForm'
-import React from 'react'
+import LoginForm from "@/src/lib/supabase/components/login/LoginForm";
+import React from "react";
 
-function login () {
+function login() {
   return (
     <div>
-        login
-      <LoginForm/>
+      login
+      <LoginForm />
     </div>
-  )
+  );
 }
 
-export default login
+export default login;
